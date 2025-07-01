@@ -18,12 +18,12 @@ Template Credit :Live Resume @ BootstrapDash.
 
 Website Screenshot 
 #HOMEPAGE PAGE
-![image](https://github.com/Singhriya050/Riya-BA-Portfolio/assets/96283346/67b52545-23f8-4f01-b5ba-258ea4503a14)
+![image](https://github.com/Singhriya050/Riya-BA-Portfolio/assets/index.html)
 #RESUME PAGE
-![image](https://github.com/Singhriya050/Riya-BA-Portfolio/assets/96283346/06df1783-d130-43ad-8672-17e74780d2c2)
+![image](https://github.com/Singhriya050/Riya-BA-Portfolio/assets/96283346/resume.html)
 #PORTFOLIO PAGE
-![image](https://github.com/Singhriya050/Riya-BA-Portfolio/assets/96283346/5962c28c-2d4e-4e6c-8c9d-59f4db81796f)
+![image](https://github.com/Singhriya050/Riya-BA-Portfolio/assets/portfolio.html)
 #BLOG PAGE
-![image](https://github.com/Singhriya050/Riya-BA-Portfolio/assets/96283346/87ef9977-ae67-43e8-881e-14d20d04f411)
+![image](https://github.com/Singhriya050/Riya-BA-Portfolio/assets/blog.html)
 #CONTACT PAGE
-![image](https://github.com/Singhriya050/Riya-BA-Portfolio/assets/96283346/6f6fa6fa-2c34-4691-aeda-7254d20d1ba1)
+![image](https://github.com/Singhriya050/Riya-BA-Portfolio/assets/contact.html)
