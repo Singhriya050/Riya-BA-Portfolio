@@ -1,12 +1,19 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const card = document.getElementById("project-card");
-  const desc = document.getElementById("description");
+  const projects = document.querySelectorAll(".hover-box");
 
-  card.addEventListener("mouseover", function () {
-    desc.style.display = "block";
-  });
+  projects.forEach((project) => {
+    const caption = project.querySelector(".portfolio-item-details");
 
-  card.addEventListener("mouseout", function () {
-    desc.style.display = "none";
+    // Initially hide the caption
+    caption.style.display = "none";
+
+    // Show on hover
+    project.addEventListener("mouseover", () => {
+      caption.style.display = "flex"; // or "block"
+    });
+
+    project.addEventListener("mouseout", () => {
+      caption.style.display = "none";
+    });
   });
 });
