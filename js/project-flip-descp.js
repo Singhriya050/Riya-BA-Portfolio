@@ -1,9 +1,5 @@
-document.addEventListener("DOMContentLoaded", function () {
-    const cards = document.querySelectorAll(".flip-card");
-
-    cards.forEach(card => {
-      card.addEventListener("click", () => {
-        card.classList.toggle("clicked");
-      });
+document.querySelectorAll('.portfolio-item').forEach(item => {
+    item.addEventListener('click', () => {
+      item.classList.toggle('active');
     });
   });
